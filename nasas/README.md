@@ -2,7 +2,11 @@
 
 ## Milestone 1 desktop edition
 
-This edition demonstrates the original milestone's registration, sign-in and proposal stage. The Java Swing window shows separate Lending and Borrowing lists. Users can propose a money loan or an item loan with a registered friend and view the pending terms from either participant's account. It runs as a standard user and opens a desktop window without a web server.
+The Java Swing app opens directly to Lendly. Create two accounts to try the loan workflow, or choose **Explore the demo** to view a sample proposal.
+
+The app includes ten form screens for signing in, registering, starting a lending proposal, starting a borrowing request, entering money details, entering item details, scheduling dates, reviewing terms, setting a savings goal and recording a contribution.
+
+Saved proposals appear in both participants' ledgers with **Pending terms** status. Reminders show the proposed due dates. The savings tracker stores each account's goal and contributions on the current computer.
 
 ## Run in NetBeans
 
